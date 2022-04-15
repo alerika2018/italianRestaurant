@@ -1,10 +1,10 @@
-#Current Page
+# Current Page
 
 - Add a menu and hamburguer menu for mobile version
   - Modal pop up window for each menu item, showing real picture and ingredients
   - Social Network links
 
-#Website
+# Website
 
 - New features:
   - Restaurant location with map
