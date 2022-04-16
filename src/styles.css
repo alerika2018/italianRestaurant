@@ -48,7 +48,7 @@ section#starters {
 header {
   padding: 0.5rem;
   background-color: white;
-  margin-bottom: 2rem;
+
   display: flex;
   justify-content: center;
   align-items: center;
@@ -56,6 +56,8 @@ header {
 
 footer {
   padding-bottom: 2rem;
+  display: flex;
+  justify-content: center;
 }
 
 h1 {

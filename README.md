@@ -68,7 +68,21 @@ https://www.linkedin.com/feed/update/urn:li:activity:6919351880619851776/
 
 # Inspiration
 
+- Back in December 2021, I attended Capstone presentation at Langara College. I was curious about the projects since I was about to start my last term and I will be presenting in April. I really liked one of the projects, the name is "Grabo" (https://grabo-app.ca/). I didn't have to much knowledge about mobile apps in that time, so for me it was great, I really wanted to try and experiment the features they developed. Grabo is an app that allows you to scan text and detect the language, since that moment I wanted to include a feature in my own project that could use the camara, that is why, for my the project Shelff I chose to be in charged to developed the barcode scanning feature.
+
+- I knew about a coding school for kids because one of my teachers work there, the website is https://c3d.io/. I found very interesting the way children in early age can start learning to code. I would like to be able to teach in the future, so this website encouraged me to be more open minded and look for more possibilities beside coding to colaborate in projects but also to train myself to be able to teach little kids.
+
 # Focus
+
+There are different things I would love to learn and apply on new projects.
+
+- Learn how to build a project using React and ASP.NET Core. Since I already have knowledge with C#, even when I have some time without using it, I would like to explore and learn how to join this two technologies together.
+- Another technology I have not had the time to explore and experiment with is Angular and it's a framework I want to learn.
+  - I would say that I would split the 6 months between 2 technologies.
+  - The best way to start learning is taking online courses.
+  - I would take a month to take a full path to use React with ASP.Net. After getting tha base of knowledge I would be ready to join a team in this technology where I could colaborate for up to two months.
+  - I believe I could use the same strategy to learn Angular.
+  - However I truly belive that the way to learn is by doing.
 
 # 2022 Internship Menu Exercise
 
